@@ -1,5 +1,3 @@
-Here’s a step-by-step local setup process for the Spring AI Model Context Server using Ollama, based on the README.md in AbhijeetMajumdar/mcp-client:
-
 ### 1. Install Ollama
 - Go to the [Ollama website](https://ollama.com/) and download Ollama for your operating system.
 - Follow the instructions to install Ollama on your machine.
